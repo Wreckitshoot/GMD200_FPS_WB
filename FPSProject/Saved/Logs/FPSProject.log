@@ -2246,3 +2246,357 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.05.02-02.03.12:218][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 3.56 sec)
 [2024.05.02-02.03.12:220][964]AssetCheck: New page: Asset Save: FPSMap
 [2024.05.02-02.03.12:220][964]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FPSMap.FPSMap
+[2024.05.02-02.04.06:810][107]LogViewport: Scene viewport resized to 1501x980, mode Windowed.
+[2024.05.02-02.06.01:267][536]BlueprintLog: New page: Compile WB_playerHud
+[2024.05.02-02.06.01:308][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.02-02.06.07:838][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.06.07:906][919]LogSavePackage: Moving output files for package: /Game/Blueprint/WB_playerHud
+[2024.05.02-02.06.07:907][919]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/WB_playerHud02CA91C446E2518077BA35AD683987B4.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/WB_playerHud.uasset'
+[2024.05.02-02.06.07:918][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.64 sec)
+[2024.05.02-02.06.07:920][919]AssetCheck: New page: Asset Save: WB_playerHud
+[2024.05.02-02.06.07:920][919]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprint/WB_playerHud.WB_playerHud
+[2024.05.02-02.08.33:070][149]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 4338030477694285729
+[2024.05.02-02.08.33:070][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.08.33:091][150]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.02-02.08.33:100][150]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.02-02.08.33:101][150]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.02-02.08.33:102][150]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.02-02.08.33:103][150]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.02-02.08.33:104][150]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.02-02.08.48:672][147]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 998
+[2024.05.02-02.08.48:672][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.08.48:692][148]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.02-02.08.48:701][148]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.02-02.08.48:702][148]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.02-02.08.48:704][148]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.02-02.08.48:705][148]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.02-02.08.48:706][148]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.02-02.08.52:070][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.08.52:149][370]LogSavePackage: Moving output files for package: /Game/Blueprint/WB_playerHud
+[2024.05.02-02.08.52:150][370]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/WB_playerHud23C196BD4595FC3A05AECAAD589A447B.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/WB_playerHud.uasset'
+[2024.05.02-02.08.52:163][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 3.73 sec)
+[2024.05.02-02.08.52:164][370]AssetCheck: New page: Asset Save: WB_playerHud
+[2024.05.02-02.08.52:164][370]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprint/WB_playerHud.WB_playerHud
+[2024.05.02-02.08.56:488][657]BlueprintLog: New page: Compile WB_playerHud
+[2024.05.02-02.08.56:519][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.02-02.09.34:898][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.09.34:982][170]LogSavePackage: Moving output files for package: /Game/Blueprint/WB_playerHud
+[2024.05.02-02.09.34:983][170]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/WB_playerHudC6E21DD84FAA465F155FDFB2EEFF5040.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/WB_playerHud.uasset'
+[2024.05.02-02.09.34:992][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 3.82 sec)
+[2024.05.02-02.09.34:994][170]AssetCheck: New page: Asset Save: WB_playerHud
+[2024.05.02-02.09.34:994][170]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprint/WB_playerHud.WB_playerHud
+[2024.05.02-02.09.44:803][813]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.02-02.09.47:835][ 10]BlueprintLog: New page: Compile GameStatic
+[2024.05.02-02.09.47:861][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.02-02.10.55:918][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.10.56:088][287]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_EnemyAI
+[2024.05.02-02.10.56:090][287]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/BP_EnemyAIB9BF78BE43FD2935CF812C98BF313D03.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/BP_EnemyAI.uasset'
+[2024.05.02-02.10.56:099][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 4.00 sec)
+[2024.05.02-02.10.56:101][287]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2024.05.02-02.10.56:101][287]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_EnemyAI.BP_EnemyAI
+[2024.05.02-02.11.42:978][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.11.43:046][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-02.11.43:176][284]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_FPSCharacter
+[2024.05.02-02.11.43:178][284]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/BP_FPSCharacter1564958041B2C7358E4F95B0D9CD3D04.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/BP_FPSCharacter.uasset'
+[2024.05.02-02.11.43:191][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 4.22 sec)
+[2024.05.02-02.11.43:193][284]AssetCheck: New page: Asset Save: BP_FPSCharacter
+[2024.05.02-02.11.43:193][284]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_FPSCharacter.BP_FPSCharacter
+[2024.05.02-02.12.14:113][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.12.14:282][274]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_FPSCharacter
+[2024.05.02-02.12.14:283][274]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/BP_FPSCharacterFC2CD6024FA6C10DE3470EABA4F28371.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/BP_FPSCharacter.uasset'
+[2024.05.02-02.12.14:293][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 4.40 sec)
+[2024.05.02-02.12.14:294][274]AssetCheck: New page: Asset Save: BP_FPSCharacter
+[2024.05.02-02.12.14:294][274]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_FPSCharacter.BP_FPSCharacter
+[2024.05.02-02.12.37:589][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.12.37:668][791]LogSavePackage: Moving output files for package: /Game/Blueprint/GameStatic
+[2024.05.02-02.12.37:670][791]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/GameStaticBB9EE6FD4A097870CC47538B20DCE2F4.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/GameStatic.uasset'
+[2024.05.02-02.12.37:679][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 4.49 sec)
+[2024.05.02-02.12.37:680][791]AssetCheck: New page: Asset Save: GameStatic
+[2024.05.02-02.12.37:680][791]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/GameStatic.GameStatic
+[2024.05.02-02.17.12:569][971]LogViewport: Scene viewport resized to 2288x1468, mode Windowed.
+[2024.05.02-02.18.51:208][208]BlueprintLog: New page: Compile WB_playerHud
+[2024.05.02-02.18.51:248][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.05.02-02.18.52:185][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.18.52:262][253]LogSavePackage: Moving output files for package: /Game/Blueprint/WB_playerHud
+[2024.05.02-02.18.52:263][253]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/WB_playerHud6752041A4709851B50D8B2B396841D2B.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/WB_playerHud.uasset'
+[2024.05.02-02.18.52:273][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 4.58 sec)
+[2024.05.02-02.18.52:274][253]AssetCheck: New page: Asset Save: WB_playerHud
+[2024.05.02-02.18.52:274][253]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprint/WB_playerHud.WB_playerHud
+[2024.05.02-02.20.11:947][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.20.12:106][880]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_FPSCharacter
+[2024.05.02-02.20.12:108][880]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/BP_FPSCharacter25516F7B41711C109A23DFA68466C2D0.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/BP_FPSCharacter.uasset'
+[2024.05.02-02.20.12:117][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 4.75 sec)
+[2024.05.02-02.20.12:119][880]AssetCheck: New page: Asset Save: BP_FPSCharacter
+[2024.05.02-02.20.12:119][880]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_FPSCharacter.BP_FPSCharacter
+[2024.05.02-02.20.24:646][625]BlueprintLog: New page: Compile BP_FPSCharacter
+[2024.05.02-02.20.24:687][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.02-02.20.25:784][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.20.25:942][676]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_FPSCharacter
+[2024.05.02-02.20.25:944][676]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/BP_FPSCharacter13CF732C4F37B5AB83042896F02D849B.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/BP_FPSCharacter.uasset'
+[2024.05.02-02.20.25:954][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 4.92 sec)
+[2024.05.02-02.20.25:956][676]AssetCheck: New page: Asset Save: BP_FPSCharacter
+[2024.05.02-02.20.25:956][676]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_FPSCharacter.BP_FPSCharacter
+[2024.05.02-02.20.34:095][ 63]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-02.20.34:106][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-02.20.34:106][ 63]PIE: New page: PIE session: FPSMap (1 May 2024, 18:20:34)
+[2024.05.02-02.20.34:143][ 63]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2024.05.02-02.20.34:145][ 63]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.05.02-02.20.34:160][ 64]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2024.05.02-02.20.34:167][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006903s)
+[2024.05.02-02.20.34:167][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.006949s)
+[2024.05.02-02.20.34:182][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.02-02.20.34:188][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-02.20.34:188][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-02.20.34:188][ 64]LogAIModule: Creating AISystem for world FPSMap
+[2024.05.02-02.20.34:189][ 64]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2024.05.02-02.20.34:189][ 64]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.02-02.20.34:189][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-02.20.34:189][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-02.20.34:189][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-02.20.34:189][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-02.20.34:189][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-02.20.34:189][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-02.20.34:189][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-02.20.34:189][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-02.20.34:189][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-02.20.34:189][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-02.20.34:189][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-02.20.34:191][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-02.20.34:249][ 64]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TX 96Khz USB Audio)
+[2024.05.02-02.20.34:249][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-02.20.34:249][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-02.20.34:249][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-02.20.34:250][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.02-02.20.34:250][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.02-02.20.34:252][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.02-02.20.34:252][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.02-02.20.34:252][ 64]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.02-02.20.34:253][ 64]LogAudio: Display: Audio Device (ID: 5) registered with world 'FPSMap'.
+[2024.05.02-02.20.34:253][ 64]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.02-02.20.34:256][ 64]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2024.05.02-02.20.34:259][ 64]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2024.05.01-22.20.34
+[2024.05.02-02.20.34:260][ 64]LogWorld: Bringing up level for play took: 0.003384
+[2024.05.02-02.20.34:262][ 64]PIE: Server logged in
+[2024.05.02-02.20.34:263][ 64]PIE: Play in editor total start time 0.158 seconds.
+[2024.05.02-02.21.29:793][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-02.21.29:793][854]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2024.05.02-02.21.29:793][854]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-02.21.29:794][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.21.29:797][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-02.21.29:803][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.21.29:815][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-02.21.29:816][854]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.02-02.21.29:816][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.02-02.21.29:817][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.02-02.21.29:826][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.05.02-02.21.29:867][855]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.05.02-02.22.20:211][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.22.20:321][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.02-02.22.20:352][182]LogSavePackage: Moving output files for package: /Game/Maps/FPSMap
+[2024.05.02-02.22.20:353][182]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/FPSMap471DABEE422B9ECC130EEFB3AD168EEB.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Maps/FPSMap.umap'
+[2024.05.02-02.22.20:363][182]LogFileHelpers: Saving map 'FPSMap' took 0.085
+[2024.05.02-02.22.20:372][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 5.08 sec)
+[2024.05.02-02.22.20:374][182]AssetCheck: New page: Asset Save: FPSMap
+[2024.05.02-02.22.20:374][182]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FPSMap.FPSMap
+[2024.05.02-02.22.30:944][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.22.31:069][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.02-02.22.31:099][880]LogSavePackage: Moving output files for package: /Game/Maps/FPSMap
+[2024.05.02-02.22.31:100][880]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/FPSMap9F4BECB1497A440F206D228F9750D78F.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Maps/FPSMap.umap'
+[2024.05.02-02.22.31:110][880]LogFileHelpers: Saving map 'FPSMap' took 0.080
+[2024.05.02-02.22.31:134][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 5.27 sec)
+[2024.05.02-02.22.31:137][880]AssetCheck: New page: Asset Save: FPSMap
+[2024.05.02-02.22.31:137][880]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FPSMap.FPSMap
+[2024.05.02-02.22.32:018][932]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-02.22.32:028][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-02.22.32:028][932]PIE: New page: PIE session: FPSMap (1 May 2024, 18:22:32)
+[2024.05.02-02.22.32:029][932]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2024.05.02-02.22.32:031][932]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.05.02-02.22.32:051][933]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2024.05.02-02.22.32:058][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006985s)
+[2024.05.02-02.22.32:058][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.007039s)
+[2024.05.02-02.22.32:071][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.02-02.22.32:073][933]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-02.22.32:074][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-02.22.32:074][933]LogAIModule: Creating AISystem for world FPSMap
+[2024.05.02-02.22.32:074][933]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2024.05.02-02.22.32:074][933]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.02-02.22.32:074][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-02.22.32:074][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-02.22.32:075][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-02.22.32:075][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-02.22.32:075][933]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-02.22.32:075][933]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-02.22.32:075][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-02.22.32:075][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-02.22.32:075][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-02.22.32:075][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-02.22.32:075][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-02.22.32:077][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-02.22.32:133][933]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TX 96Khz USB Audio)
+[2024.05.02-02.22.32:133][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-02.22.32:134][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-02.22.32:134][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-02.22.32:134][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.02-02.22.32:134][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.02-02.22.32:136][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.02-02.22.32:136][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.02-02.22.32:136][933]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.02-02.22.32:136][933]LogAudio: Display: Audio Device (ID: 6) registered with world 'FPSMap'.
+[2024.05.02-02.22.32:137][933]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.02-02.22.32:140][933]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2024.05.02-02.22.32:143][933]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2024.05.01-22.22.32
+[2024.05.02-02.22.32:144][933]LogWorld: Bringing up level for play took: 0.003405
+[2024.05.02-02.22.32:146][933]PIE: Server logged in
+[2024.05.02-02.22.32:147][933]PIE: Play in editor total start time 0.119 seconds.
+[2024.05.02-02.22.42:187][781]LogNet: Browse: /Game/Maps/MainMenu
+[2024.05.02-02.22.42:187][781]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2024.05.02-02.22.42:187][781]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2024.05.02-02.22.42:188][781]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-02.22.42:188][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.22.42:244][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-02.22.42:247][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.02-02.22.42:257][781]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2024.05.02-02.22.42:258][781]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-02.22.42:258][781]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-02.22.42:258][781]LogAIModule: Creating AISystem for world MainMenu
+[2024.05.02-02.22.42:258][781]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2024.05.02-02.22.42:258][781]LogLoad: Game class is 'MainMenus_C'
+[2024.05.02-02.22.42:259][781]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.05.01-22.22.42
+[2024.05.02-02.22.42:260][781]LogWorld: Bringing up level for play took: 0.000797
+[2024.05.02-02.22.42:261][781]LogLoad: Took 0.073589 seconds to LoadMap(/Game/Maps/MainMenu)
+[2024.05.02-02.22.45:321][ 75]LogNet: Browse: /Game/Maps/FPSMap
+[2024.05.02-02.22.45:321][ 75]LogLoad: LoadMap: /Game/Maps/FPSMap
+[2024.05.02-02.22.45:321][ 75]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2024.05.02-02.22.45:322][ 75]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-02.22.45:322][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.22.45:335][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-02.22.45:337][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.02-02.22.45:339][ 75]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2024.05.02-02.22.45:347][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007407s)
+[2024.05.02-02.22.45:347][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.007456s)
+[2024.05.02-02.22.45:347][ 75]LogAudio: Display: Audio Device (ID: 6) registered with world 'FPSMap'.
+[2024.05.02-02.22.45:347][ 75]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-02.22.45:347][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-02.22.45:348][ 75]LogAIModule: Creating AISystem for world FPSMap
+[2024.05.02-02.22.45:348][ 75]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2024.05.02-02.22.45:348][ 75]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2024.05.02-02.22.45:351][ 75]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2024.05.01-22.22.45
+[2024.05.02-02.22.45:352][ 75]LogWorld: Bringing up level for play took: 0.003476
+[2024.05.02-02.22.45:354][ 75]LogLoad: Took 0.033253 seconds to LoadMap(/Game/Maps/UEDPIE_0_FPSMap)
+[2024.05.02-02.22.48:712][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-02.22.48:713][365]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2024.05.02-02.22.48:713][365]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-02.22.48:713][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.22.48:716][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-02.22.48:722][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.22.48:734][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-02.22.48:735][365]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.02-02.22.48:735][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.02-02.22.48:737][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.02-02.22.48:745][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.02-02.22.48:838][366]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.05.02-02.25.51:189][ 54]BlueprintLog: New page: Compile BP_FPSCharacter
+[2024.05.02-02.25.51:231][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.02-02.25.52:271][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.25.52:442][104]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_FPSCharacter
+[2024.05.02-02.25.52:444][104]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/BP_FPSCharacterC97E59F143BC03AE3341ECAD469C45AA.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/BP_FPSCharacter.uasset'
+[2024.05.02-02.25.52:454][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 5.45 sec)
+[2024.05.02-02.25.52:456][104]AssetCheck: New page: Asset Save: BP_FPSCharacter
+[2024.05.02-02.25.52:456][104]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_FPSCharacter.BP_FPSCharacter
+[2024.05.02-02.26.45:151][132]BlueprintLog: New page: Compile BP_FPSCharacter
+[2024.05.02-02.26.45:205][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.05.02-02.26.45:780][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-02.26.45:944][149]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_FPSCharacter
+[2024.05.02-02.26.45:945][149]LogSavePackage: Moving '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Saved/BP_FPSCharacterE047628047858967ECA70EBF0CFF0A60.tmp' to '../../../../../../Users/billy/OneDrive/Documents/Champlain stuff/titanfallripoff/GMD200_FPS_WB/FPSProject/Content/Blueprint/BP_FPSCharacter.uasset'
+[2024.05.02-02.26.45:955][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 5.63 sec)
+[2024.05.02-02.26.45:957][149]AssetCheck: New page: Asset Save: BP_FPSCharacter
+[2024.05.02-02.26.45:957][149]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_FPSCharacter.BP_FPSCharacter
+[2024.05.02-02.27.06:316][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-02.27.06:326][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-02.27.06:327][289]PIE: New page: PIE session: FPSMap (1 May 2024, 18:27:06)
+[2024.05.02-02.27.06:360][289]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2024.05.02-02.27.06:362][289]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.05.02-02.27.06:382][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2024.05.02-02.27.06:389][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006841s)
+[2024.05.02-02.27.06:389][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.006886s)
+[2024.05.02-02.27.06:402][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.02-02.27.06:406][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-02.27.06:406][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-02.27.06:407][290]LogAIModule: Creating AISystem for world FPSMap
+[2024.05.02-02.27.06:407][290]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2024.05.02-02.27.06:407][290]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.02-02.27.06:407][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-02.27.06:407][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-02.27.06:407][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-02.27.06:407][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-02.27.06:407][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-02.27.06:407][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-02.27.06:407][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-02.27.06:407][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-02.27.06:408][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-02.27.06:408][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-02.27.06:408][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-02.27.06:410][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-02.27.06:469][290]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TX 96Khz USB Audio)
+[2024.05.02-02.27.06:469][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-02.27.06:469][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-02.27.06:469][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-02.27.06:470][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.02-02.27.06:470][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.02-02.27.06:472][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.02-02.27.06:472][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.02-02.27.06:472][290]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.02-02.27.06:472][290]LogAudio: Display: Audio Device (ID: 7) registered with world 'FPSMap'.
+[2024.05.02-02.27.06:472][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.02-02.27.06:476][290]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2024.05.02-02.27.06:479][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2024.05.01-22.27.06
+[2024.05.02-02.27.06:480][290]LogWorld: Bringing up level for play took: 0.003322
+[2024.05.02-02.27.06:482][290]PIE: Server logged in
+[2024.05.02-02.27.06:483][290]PIE: Play in editor total start time 0.157 seconds.
+[2024.05.02-02.27.12:186][766]LogNet: Browse: /Game/Maps/MainMenu
+[2024.05.02-02.27.12:186][766]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2024.05.02-02.27.12:186][766]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2024.05.02-02.27.12:187][766]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-02.27.12:187][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.27.12:222][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-02.27.12:225][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.02-02.27.12:235][766]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2024.05.02-02.27.12:235][766]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-02.27.12:235][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-02.27.12:236][766]LogAIModule: Creating AISystem for world MainMenu
+[2024.05.02-02.27.12:236][766]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2024.05.02-02.27.12:236][766]LogLoad: Game class is 'MainMenus_C'
+[2024.05.02-02.27.12:237][766]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.05.01-22.27.12
+[2024.05.02-02.27.12:237][766]LogWorld: Bringing up level for play took: 0.000782
+[2024.05.02-02.27.12:238][766]LogLoad: Took 0.053009 seconds to LoadMap(/Game/Maps/MainMenu)
+[2024.05.02-02.27.14:691][  1]LogNet: Browse: /Game/Maps/FPSMap
+[2024.05.02-02.27.14:691][  1]LogLoad: LoadMap: /Game/Maps/FPSMap
+[2024.05.02-02.27.14:691][  1]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2024.05.02-02.27.14:691][  1]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-02.27.14:691][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.27.14:703][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-02.27.14:706][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.02-02.27.14:709][  1]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2024.05.02-02.27.14:716][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007005s)
+[2024.05.02-02.27.14:716][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.007058s)
+[2024.05.02-02.27.14:716][  1]LogAudio: Display: Audio Device (ID: 7) registered with world 'FPSMap'.
+[2024.05.02-02.27.14:716][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-02.27.14:716][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-02.27.14:716][  1]LogAIModule: Creating AISystem for world FPSMap
+[2024.05.02-02.27.14:717][  1]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2024.05.02-02.27.14:717][  1]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2024.05.02-02.27.14:719][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2024.05.01-22.27.14
+[2024.05.02-02.27.14:719][  1]LogWorld: Bringing up level for play took: 0.002628
+[2024.05.02-02.27.14:722][  1]LogLoad: Took 0.031307 seconds to LoadMap(/Game/Maps/UEDPIE_0_FPSMap)
+[2024.05.02-02.27.25:440][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-02.27.25:440][910]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2024.05.02-02.27.25:440][910]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-02.27.25:441][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.27.25:444][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-02.27.25:451][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-02.27.25:463][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-02.27.25:463][910]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.02-02.27.25:463][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.02-02.27.25:469][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.02-02.27.25:478][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.02-02.27.25:570][911]LogPlayLevel: Display: Destroying online subsystem :Context_27
