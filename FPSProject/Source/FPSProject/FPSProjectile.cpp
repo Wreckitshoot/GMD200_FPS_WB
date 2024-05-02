@@ -79,7 +79,15 @@ void AFPSProjectile::Tick(float DeltaTime)
 // Function that initializes the projectile's velocity in the shoot direction.
 void AFPSProjectile::FireInDirection(const FVector& ShootDirection)
 {
-    ProjectileMovementComponent->Velocity = ShootDirection * ProjectileMovementComponent->InitialSpeed;
+    // Define a fixed direction vector (for example, straight ahead)
+    FVector FixedDirection = FVector(1.0f, 0.0f, 0.0f);
+
+    // Spawn the projectile and set its fixed direction and rotation
+    AFPSProjectile* NewProjectile = GetWorld()->SpawnActor<AFPSProjectile>(ProjectileClass, GetActorLocation(), GetActorRotation());
+    if (NewProjectile)
+    {
+        NewProjectile->FireInDirection(FixedDirection);
+    }
 }
 
 // Function that is called when the projectile hits something.
